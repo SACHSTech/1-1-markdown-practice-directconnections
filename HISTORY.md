@@ -69,12 +69,12 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 
 ![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
-Region     | Key Artists                  | Notable Albums 
------------|------------------------------|---------------------------------------
-East Coast | Nas, Biggie, Wu-Tang Clan    | Illmatic, Ready to Die, 36 Chambers  
-West Coast | Tupac, N.W.A., Ice Cube      | All Eyez on Me, Straight Outta Compton  
-Midwest    | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal  
-South      | Outkast, Geto Boys           | Southernplayalisticadillacmuzik  
+Region     | Key Artists                  | Notable Albums                                  |
+-----------|------------------------------|-------------------------------------------------|
+East Coast | Nas, Biggie, Wu-Tang Clan    | [Illmatic](), [Ready to Die](), [36 Chambers]() | 
+West Coast | Tupac, N.W.A., Ice Cube      | [All Eyez on Me](), [Straight Outta Compton]()  |
+Midwest    | Common, Bone Thugs-N-Harmony | [Resurrection](), [E. 1999 Eternal]()           |
+South      | Outkast, Geto Boys           | [Southernplayalisticadillacmuzik]()             |
 
 ## 7. Transition to the 2000s  
 
