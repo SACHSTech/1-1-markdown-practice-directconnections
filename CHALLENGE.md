@@ -1,7 +1,9 @@
 # Tricky Examples
+
 Test your knowledge of Markdown syntax with these examples. Can you re-create them without looking anything up?
 
 ## Example 1
+
 <ol>
   <li>Programming Languages</li>
   <ul>
@@ -49,6 +51,7 @@ Test your knowledge of Markdown syntax with these examples. Can you re-create th
 </ol>
 
 ## Example 2
+
 This is a single paragraph sentence that<br>
 should break softly with two spaces at the end of the previous line.<br>
 Here’s the continuation of the same paragraph.<br>
@@ -65,16 +68,18 @@ Click the image above to visit the Markdown Guide website.
 > NOTE: The above image source is `https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg`. It uses the alt text `A minimal Markdown logo in black and white` and, when clicked, takes the user to the website at `https://www.markdownguide.org`
 
 ## Example 4
+
 > “The thing about hip hop today is it's smart, it's insightful. The way they can communicate a complex message in a very short space is remarkable.”
 > 
 > – Barack Obama
 > > But some argue:
 > > - Lyrics have become repetitive
 > > - Production is formulaic
-> > > And yet, within that, artists like *Kendrick Lamar* prove
+> > > And yet, within that, artists like *Kendrick Lamar* prove<br>
 > > > that innovation and depth are still alive.  
 
 ## Example 5
+
 | Tool        | Strengths                             | Weaknesses                         |
 |-------------|---------------------------------------|------------------------------------|
 | **GitHub**  | Easy collaboration, integrates CI/CD  | Requires knowledge of git          |
