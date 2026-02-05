@@ -4,51 +4,29 @@ Test your knowledge of Markdown syntax with these examples. Can you re-create th
 
 ## Example 1
 
-<ol>
-  <li>Programming Languages</li>
-  <ul>
-    <li>Python</li>
-      <ol type="A">
-        <li>Popular Frameworks</li>
-        <ul>
-          <li>Django</li>
-          <li>Flask</li>
-        </ul>
-        <li>Notable Features</li>
-        <ul>
-          <li>Dynamic Typing</li>
-          <li>Huge Ecosystem</li>
-        </ul>
-      </ol>
-    <li>Javascript</li>
-      <ol type="A">
-        <li>Frontend</li>
-        <ul>
-          <li>React</li>
-          <li>Vue</li>
-          <li>Angular</li>
-        </ul>
-        <li>Backend</li>
-        <ul>
-          <li>Node.js</li>
-          <li>Deno</li>
-        </ul>
-      </ol>
-  </ul>
-  <li>Databases</li>
-  <ul>
-    <li>Relational</li>
-      <ol type="A">
-        <li>PostgreSQL</li>
-        <li>MySQL</li>
-      </ol>
-    <li>NoSQL</li>
-      <ul>
-        <li>MonoDB</li>
-        <li>Redis</li>
-      </ul>
-  </ul>
-</ol>
+1. Programming Languages
+    - Python
+      1. Popular Frameworks
+          - Django
+          - Flask
+      2. Notable Features
+          - Dynamic Typing
+          - Huge Ecosystem
+    - Javascript
+      1. Frontend
+          - React
+          - Vue
+          - Angular
+      2. Backend
+          - Node.js
+          - Deno
+2. Databases
+      - Relational
+          1. PostgreSQL
+          2. MySQL
+      - NoSQL
+          - MonoDB
+          - Redis
 
 ## Example 2
 
