@@ -60,6 +60,6 @@ Click the image above to visit the Markdown Guide website.
 
 | Tool        | Strengths                             | Weaknesses                         |
 |-------------|---------------------------------------|------------------------------------|
-| **GitHub**  | Easy collaboration, integrates CI/CD  | Requires knowledge of git          |
+| **GitHub**  | Easy collaboration, integrates CI/CD  | Requires knowledge of `git`        |
 | *Markdown*  | Lightweight, portable, human-readable | Limited styling compared to HTML   |
 | VS Code     | Extensions, debugging, free           | Can feel heavy on low-end machines |
